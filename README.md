@@ -1,6 +1,4 @@
-# Hi, I'm Tolu 👋
-
-**Toluwase Babalola · Data Scientist and AI Developer · Hull 🇬🇧**
+# Hi, Tolu here 👋
 
 I build large language model applications, AI agents, and production machine learning pipelines.
 
