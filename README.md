@@ -55,50 +55,72 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 - [repo](PR link): description
 -->
 
-## Tech stack
+## Stack
 
-<table>
-  <tr>
-    <td valign="middle"><strong>AI / LLM frameworks</strong></td>
-    <td><img alt="LangChain" src="https://img.shields.io/badge/LangChain-5B616A?style=flat&logo=langchain&logoColor=white"> <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-5B616A?style=flat"> <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-5B616A?style=flat"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-D34327?style=flat&logo=pytorch&logoColor=white"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-C45500?style=flat&logo=tensorflow&logoColor=white"> <img alt="Transformers" src="https://img.shields.io/badge/Transformers-5B616A?style=flat&logo=huggingface&logoColor=FFD21E"> <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>AI automation</strong></td>
-    <td><img alt="Make" src="https://img.shields.io/badge/Make-872DD5?style=flat&logo=make&logoColor=white"> <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>AI coding tools</strong></td>
-    <td><img alt="Cursor" src="https://img.shields.io/badge/Cursor-5B616A?style=flat&logo=cursor&logoColor=white"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>Languages</strong></td>
-    <td><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-5B616A?style=flat"> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>Web</strong></td>
-    <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-5B616A?style=flat&logo=nextdotjs&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-5B616A?style=flat&logo=react&logoColor=61DAFB"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>Backend and APIs</strong></td>
-    <td><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-008579?style=flat&logo=fastapi&logoColor=white"> <img alt="Flask" src="https://img.shields.io/badge/Flask-2C8092?style=flat&logo=flask&logoColor=white"> <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-5B616A?style=flat"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-4D833F?style=flat&logo=nodedotjs&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>Cloud platforms</strong></td>
-    <td><img alt="AWS" src="https://img.shields.io/badge/AWS-5B616A?style=flat"> <img alt="GCP" src="https://img.shields.io/badge/GCP-3973D4?style=flat&logo=googlecloud&logoColor=white"> <img alt="Oracle OCI" src="https://img.shields.io/badge/Oracle_OCI-5B616A?style=flat"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-28865C?style=flat&logo=supabase&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>Data and ETL</strong></td>
-    <td><img alt="ETL" src="https://img.shields.io/badge/ETL-5B616A?style=flat"> <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4D77BA?style=flat&logo=googlebigquery&logoColor=white"> <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-1C7EA2?style=flat&logo=snowflake&logoColor=white"> <img alt="Excel" src="https://img.shields.io/badge/Excel-5B616A?style=flat"> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-D63F3F?style=flat&logo=streamlit&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>MLOps and DevOps</strong></td>
-    <td><img alt="Docker" src="https://img.shields.io/badge/Docker-1D7BC2?style=flat&logo=docker&logoColor=white"> <img alt="MLflow" src="https://img.shields.io/badge/MLflow-007CBD?style=flat&logo=mlflow&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td valign="middle"><strong>Tools</strong></td>
-    <td><img alt="Git" src="https://img.shields.io/badge/Git-D0452B?style=flat&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-5B616A?style=flat&logo=github&logoColor=white"> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-BB5A1D?style=flat&logo=jupyter&logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-5B616A?style=flat"></td>
-  </tr>
-</table>
+<p>
+<strong>ML frameworks</strong><br>
+<picture><img alt="PyTorch" height="20" src="https://img.shields.io/badge/PyTorch-D34327?style=flat&logo=pytorch&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="TensorFlow" height="20" src="https://img.shields.io/badge/TensorFlow-C45500?style=flat&logo=tensorflow&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="scikit-learn" height="20" src="https://img.shields.io/badge/scikit--learn-AC6614?style=flat&logo=scikitlearn&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Keras" height="20" src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Transformers" height="20" src="https://img.shields.io/badge/Transformers-5B616A?style=flat&logo=huggingface&logoColor=FFD21E"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Pandas" height="20" src="https://img.shields.io/badge/Pandas-5B616A?style=flat&logo=pandas&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="NumPy" height="20" src="https://img.shields.io/badge/NumPy-5B616A?style=flat&logo=numpy&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>LLM / agents</strong><br>
+<picture><img alt="LangChain" height="20" src="https://img.shields.io/badge/LangChain-5B616A?style=flat&logo=langchain&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="LangGraph" height="20" src="https://img.shields.io/badge/LangGraph-7FC8FF?style=flat&logo=langgraph&logoColor=333"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="vLLM" height="20" src="https://img.shields.io/badge/vLLM-2377BC?style=flat&logo=vllm&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Ollama" height="20" src="https://img.shields.io/badge/Ollama-5B616A?style=flat&logo=ollama&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>Vector DBs</strong><br>
+<picture><img alt="Pinecone" height="20" src="https://img.shields.io/badge/Pinecone-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="ChromaDB" height="20" src="https://img.shields.io/badge/ChromaDB-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Qdrant" height="20" src="https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>AI automation</strong><br>
+<picture><img alt="Make" height="20" src="https://img.shields.io/badge/Make-872DD5?style=flat&logo=make&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="n8n" height="20" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>AI coding tools</strong><br>
+<picture><img alt="Cursor" height="20" src="https://img.shields.io/badge/Cursor-5B616A?style=flat&logo=cursor&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Claude Code" height="20" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>Languages</strong><br>
+<picture><img alt="Python" height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="SQL" height="20" src="https://img.shields.io/badge/SQL-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="R" height="20" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="TypeScript" height="20" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>Web</strong><br>
+<picture><img alt="Next.js" height="20" src="https://img.shields.io/badge/Next.js-5B616A?style=flat&logo=nextdotjs&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="React" height="20" src="https://img.shields.io/badge/React-5B616A?style=flat&logo=react&logoColor=61DAFB"></picture>
+</p>
+
+<p>
+<strong>Backend and APIs</strong><br>
+<picture><img alt="FastAPI" height="20" src="https://img.shields.io/badge/FastAPI-008579?style=flat&logo=fastapi&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Flask" height="20" src="https://img.shields.io/badge/Flask-2C8092?style=flat&logo=flask&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="REST APIs" height="20" src="https://img.shields.io/badge/REST_APIs-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Node.js" height="20" src="https://img.shields.io/badge/Node.js-4D833F?style=flat&logo=nodedotjs&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>Cloud platforms</strong><br>
+<picture><img alt="AWS" height="20" src="https://img.shields.io/badge/AWS-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="GCP" height="20" src="https://img.shields.io/badge/GCP-3973D4?style=flat&logo=googlecloud&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Oracle OCI" height="20" src="https://img.shields.io/badge/Oracle_OCI-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Supabase" height="20" src="https://img.shields.io/badge/Supabase-28865C?style=flat&logo=supabase&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Azure" height="20" src="https://img.shields.io/badge/Azure-5B616A?style=flat"></picture>
+</p>
+
+<p>
+<strong>Data and ETL</strong><br>
+<picture><img alt="ETL" height="20" src="https://img.shields.io/badge/ETL-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="BigQuery" height="20" src="https://img.shields.io/badge/BigQuery-4D77BA?style=flat&logo=googlebigquery&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Snowflake" height="20" src="https://img.shields.io/badge/Snowflake-1C7EA2?style=flat&logo=snowflake&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Excel" height="20" src="https://img.shields.io/badge/Excel-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Spark" height="20" src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Databricks" height="20" src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Kafka" height="20" src="https://img.shields.io/badge/Kafka-5B616A?style=flat&logo=apachekafka&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="PostgreSQL" height="20" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>Visualisation / apps</strong><br>
+<picture><img alt="Streamlit" height="20" src="https://img.shields.io/badge/Streamlit-D63F3F?style=flat&logo=streamlit&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Gradio" height="20" src="https://img.shields.io/badge/Gradio-BD5710?style=flat&logo=gradio&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>MLOps and DevOps</strong><br>
+<picture><img alt="Docker" height="20" src="https://img.shields.io/badge/Docker-1D7BC2?style=flat&logo=docker&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="MLflow" height="20" src="https://img.shields.io/badge/MLflow-007CBD?style=flat&logo=mlflow&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Airflow" height="20" src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="DVC" height="20" src="https://img.shields.io/badge/DVC-0E8093?style=flat&logo=dvc&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Kubernetes" height="20" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="GitHub Actions" height="20" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"></picture>
+</p>
+
+<p>
+<strong>Tools</strong><br>
+<picture><img alt="Git" height="20" src="https://img.shields.io/badge/Git-D0452B?style=flat&logo=git&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="GitHub" height="20" src="https://img.shields.io/badge/GitHub-5B616A?style=flat&logo=github&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Jupyter Notebook" height="20" src="https://img.shields.io/badge/Jupyter_Notebook-BB5A1D?style=flat&logo=jupyter&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="VS Code" height="20" src="https://img.shields.io/badge/VS_Code-5B616A?style=flat"></picture>
+</p>
 
 ## Articles
 
