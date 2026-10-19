@@ -8,6 +8,7 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 
 <a href="https://www.linkedin.com/in/toluwasebabalola"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
 <a href="https://tryworkwithai.substack.com/"><img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"></a>
+<a href="https://x.com/iamtolux"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-5B616A?style=for-the-badge&logo=x&logoColor=white"><img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"></picture></a>
 <a href="https://www.youtube.com/@thbabs_yt"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 </div>
