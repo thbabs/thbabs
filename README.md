@@ -59,7 +59,15 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 <table>
   <tr>
     <td valign="middle"><strong>AI / LLM frameworks</strong></td>
-    <td><img alt="LangChain" src="https://img.shields.io/badge/LangChain-5B616A?style=flat&logo=langchain&logoColor=white"> <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-5B616A?style=flat"> <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-5B616A?style=flat"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-D34327?style=flat&logo=pytorch&logoColor=white"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-C45500?style=flat&logo=tensorflow&logoColor=white"> <img alt="Transformers" src="https://img.shields.io/badge/Transformers-5B616A?style=flat&logo=huggingface&logoColor=FFD21E"> <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"></td>
+    <td><img alt="LangChain" src="https://img.shields.io/badge/LangChain-5B616A?style=flat&logo=langchain&logoColor=white"> <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-5B616A?style=flat"> <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-5B616A?style=flat"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-D34327?style=flat&logo=pytorch&logoColor=white"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-C45500?style=flat&logo=tensorflow&logoColor=white"> <img alt="Transformers" src="https://img.shields.io/badge/Transformers-5B616A?style=flat&logo=huggingface&logoColor=FFD21E"> <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"> <img alt="MCP" src="https://img.shields.io/badge/MCP-5B616A?style=flat&logo=modelcontextprotocol&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>AI automation</strong></td>
+    <td><img alt="Make" src="https://img.shields.io/badge/Make-872DD5?style=flat&logo=make&logoColor=white"> <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>AI coding tools</strong></td>
+    <td><img alt="Cursor" src="https://img.shields.io/badge/Cursor-5B616A?style=flat&logo=cursor&logoColor=white"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white"></td>
   </tr>
   <tr>
     <td valign="middle"><strong>Languages</strong></td>
@@ -87,7 +95,7 @@ I turn data into informed decisions and creating scalable systems with AI to sav
   </tr>
   <tr>
     <td valign="middle"><strong>Tools</strong></td>
-    <td><img alt="Git" src="https://img.shields.io/badge/Git-D0452B?style=flat&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-5B616A?style=flat&logo=github&logoColor=white"> <img alt="Cursor" src="https://img.shields.io/badge/Cursor-5B616A?style=flat&logo=cursor&logoColor=white"> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-BB5A1D?style=flat&logo=jupyter&logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-5B616A?style=flat"></td>
+    <td><img alt="Git" src="https://img.shields.io/badge/Git-D0452B?style=flat&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-5B616A?style=flat&logo=github&logoColor=white"> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-BB5A1D?style=flat&logo=jupyter&logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-5B616A?style=flat"></td>
   </tr>
 </table>
 
