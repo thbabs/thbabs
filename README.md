@@ -55,7 +55,7 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 - [repo](PR link): description
 -->
 
-## Tech stack
+## Stack
 
 <p>
 <strong>ML frameworks</strong><br>
