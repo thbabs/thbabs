@@ -50,11 +50,9 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 
 ## Open source contributions
 
-Contributions to open-source Python and AI projects will be listed here.
-
-<!-- - [repo](PR link): one-line description -->
-
-[See all my open-source pull requests](https://github.com/pulls?q=is%3Apr+author%3Athbabs+-user%3Athbabs)
+<!-- oss-contributions
+- [repo](PR link): description
+-->
 
 ## Tech stack
 
