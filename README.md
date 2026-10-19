@@ -4,7 +4,7 @@ I build large language model applications, AI agents, and production machine lea
 
 - 🚀 [Multivrs](https://multivrs.space) — deploy apps and agents from a git repo onto the edge, with domains, mail, and serverless infrastructure
 - 💬 [KontinueAI](https://kontinueai.com/) — one workspace to switch between leading AI models and continue an imported conversation
-- 🧠 ServiceOS — a second brain for growing businesses
+- 🧠 [ServiceOS](https://github.com/thbabs/serviceos) — a second brain for growing businesses
 
 **Stack:** Python, SQL, NoSQL, GCP, AWS, Next.js, React, Transformers, APIs, Streamlit, Docker, Claude
 
