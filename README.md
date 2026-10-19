@@ -43,13 +43,21 @@ I turn data into informed decisions and creating scalable systems with AI to sav
   </tr>
 </table>
 
-## Highlighted projects
+## Featured projects
 
-| Project | |
+| Project | Description |
 | --- | --- |
-| **ServiceOS**<br><img alt="Private" src="https://img.shields.io/badge/Private-6c757d?style=flat"> | AI-powered operating system for service businesses. |
-| [**BillSplitPro**](https://github.com/thbabs/BillSplitPro) | A minimal bill-splitting app for splitting by item, percentage, or evenly, with optional service charge, VAT, and tip. |
-| [**Climate Change RAG Assistant**](https://github.com/thbabs/Climate-Change-RAG)<br><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-2F6F4E?style=flat"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"> | A retrieval-augmented generation assistant that answers climate change questions from research papers, using vector embeddings with ChromaDB, Google Gemini, and a Streamlit app. |
+| ServiceOS | AI-powered operating system for service businesses. |
+| [BillSplitPro](https://github.com/thbabs/BillSplitPro) | A minimal bill-splitting app for splitting by item, percentage, or evenly, with optional service charge, VAT, and tip. |
+| [Climate Change RAG Assistant](https://github.com/thbabs/Climate-Change-RAG) | A retrieval-augmented generation assistant that answers climate change questions from research papers, using vector embeddings with ChromaDB, Google Gemini, and a Streamlit app. |
+
+## Open source contributions
+
+Contributions to open-source Python and AI projects will be listed here.
+
+<!-- - [repo](PR link): one-line description -->
+
+[See all my open-source pull requests](https://github.com/pulls?q=is%3Apr+author%3Athbabs+-user%3Athbabs)
 
 ## Tech stack
 
