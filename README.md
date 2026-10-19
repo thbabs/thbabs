@@ -99,7 +99,7 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 
 <p>
 <strong>Cloud platforms</strong><br>
-<picture><img alt="AWS" height="20" src="https://img.shields.io/badge/AWS-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="GCP" height="20" src="https://img.shields.io/badge/GCP-3973D4?style=flat&logo=googlecloud&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Oracle OCI" height="20" src="https://img.shields.io/badge/Oracle_OCI-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Supabase" height="20" src="https://img.shields.io/badge/Supabase-28865C?style=flat&logo=supabase&logoColor=white"></picture>
+<picture><img alt="AWS" height="20" src="https://img.shields.io/badge/AWS-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="GCP" height="20" src="https://img.shields.io/badge/GCP-3973D4?style=flat&logo=googlecloud&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Oracle OCI" height="20" src="https://img.shields.io/badge/Oracle_OCI-5B616A?style=flat"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Supabase" height="20" src="https://img.shields.io/badge/Supabase-28865C?style=flat&logo=supabase&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Azure" height="20" src="https://img.shields.io/badge/Azure-5B616A?style=flat"></picture>
 </p>
 
 <p>
