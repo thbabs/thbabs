@@ -51,9 +51,7 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 
 ## Open source contributions
 
-<!-- oss-contributions
-- [repo](PR link): description
--->
+- [pandas-dev/pandas-stubs #2012](https://github.com/pandas-dev/pandas-stubs/pull/2012): pass --preset strict to the installed-stubs pyrefly check (merged)
 
 ## Stack
 
