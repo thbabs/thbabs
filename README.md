@@ -1,48 +1,12 @@
-<div align="center">
-
-# Hi, Tolu here 👋
+## Hi, Tolu here
 
 I develop LLM apps, AI agents & production ML pipelines by turning data into informed decisions and creating sustainable Human-AI systems
-
-<a href="https://www.linkedin.com/in/toluwasebabalola"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
-<a href="https://tryworkwithai.substack.com/"><img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"></a>
-<a href="https://x.com/iamtolux"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-5B616A?style=for-the-badge&logo=x&logoColor=white"><img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"></picture></a>
-<a href="https://www.youtube.com/@thbabs_yt"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-
-</div>
-
-## Products and company
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://multivrs.space/"><img src="assets/logos/multivrs.png" alt="Multivrs" width="48" height="48"></a>
-      <br><br>
-      <a href="https://multivrs.space/"><strong>Multivrs</strong></a>
-      <br>
-      The all-in-one platform to build, launch, and run your business.
-    </td>
-    <td align="center" width="33%">
-      <a href="https://kontinueai.com/"><img src="assets/logos/kontinueai.png" alt="KontinueAI" width="48" height="48"></a>
-      <br><br>
-      <a href="https://kontinueai.com/"><strong>KontinueAI</strong></a>
-      <br>
-      One workspace for every AI model, with your chats carried over.
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.solverdeck.com/"><img src="assets/logos/solverdeck.png" alt="Solverdeck" width="48" height="48"></a>
-      <br><br>
-      <a href="https://www.solverdeck.com/"><strong>Solverdeck</strong></a>
-      <br>
-      Web and AI agency.
-    </td>
-  </tr>
-</table>
 
 ## Featured projects
 
 | Project | Description |
 | --- | --- |
+| [llm-cassette](https://github.com/thbabs/llm-cassette) | Record and replay OpenAI and Anthropic calls plus tool calls in pytest, with a diff command.<br>`pip install llm-cassette` |
 | ServiceOS | AI-powered operating system for service businesses. |
 | [BillSplitPro](https://github.com/thbabs/BillSplitPro) | A minimal bill-splitting app for splitting by item, percentage, or evenly, with optional service charge, VAT, and tip. |
 | [Climate Change RAG Assistant](https://github.com/thbabs/Climate-Change-RAG) | A retrieval-augmented generation assistant that answers climate change questions from research papers, using vector embeddings with ChromaDB, Google Gemini, and a Streamlit app. |
@@ -52,7 +16,8 @@ I develop LLM apps, AI agents & production ML pipelines by turning data into inf
 - [pandas-dev/pandas-stubs #2012](https://github.com/pandas-dev/pandas-stubs/pull/2012): pass --preset strict to the installed-stubs pyrefly check (merged)
 - [docling-project/docling-pipelines #355](https://github.com/docling-project/docling-pipelines/pull/355): bring vault_initializer.py to 100% coverage and fix its log dashes (merged)
 
-## Stack
+<details>
+<summary><h2>Stack</h2></summary>
 
 <p>
 <strong>ML frameworks</strong><br>
@@ -118,6 +83,12 @@ I develop LLM apps, AI agents & production ML pipelines by turning data into inf
 <strong>Tools</strong><br>
 <picture><img alt="Git" height="20" src="https://img.shields.io/badge/Git-D0452B?style=flat&logo=git&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="GitHub" height="20" src="https://img.shields.io/badge/GitHub-5B616A?style=flat&logo=github&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="Jupyter Notebook" height="20" src="https://img.shields.io/badge/Jupyter_Notebook-BB5A1D?style=flat&logo=jupyter&logoColor=white"></picture>&nbsp;&nbsp;&nbsp;<picture><img alt="VS Code" height="20" src="https://img.shields.io/badge/VS_Code-5B616A?style=flat"></picture>
 </p>
+
+</details>
+
+## Connect
+
+<a href="https://www.linkedin.com/in/toluwasebabalola"><img alt="LinkedIn" height="36" width="36" src="assets/icons/linkedin.svg"></a>&emsp;&emsp;<a href="https://x.com/iamtolux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-dark.svg"><img alt="X" height="36" width="36" src="assets/icons/x.svg"></picture></a>&emsp;&emsp;<a href="https://www.youtube.com/@thbabs_yt"><img alt="YouTube" height="36" width="36" src="assets/icons/youtube.svg"></a>
 
 ## Articles
 
