@@ -2,9 +2,7 @@
 
 # Hi, Tolu here 👋
 
-I build large language model applications, AI agents, and production machine learning pipelines.
-
-I turn data into informed decisions and creating scalable systems with AI to save up operational time and costs
+I develop LLM apps, AI agents & production ML pipelines by turning data into informed decisions and creating sustainable Human-AI systems
 
 <a href="https://www.linkedin.com/in/toluwasebabalola"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
 <a href="https://tryworkwithai.substack.com/"><img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"></a>
