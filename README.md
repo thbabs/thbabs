@@ -21,7 +21,7 @@ I develop LLM apps, AI agents & production ML pipelines by turning data into inf
 - [docling-project/docling-pipelines #355](https://github.com/docling-project/docling-pipelines/pull/355): bring vault_initializer.py to 100% coverage and fix its log dashes (merged)
 
 <details>
-<summary><b>Stack</b></summary>
+<summary><h2>Stack</h2></summary>
 
 <p>
 <strong>ML frameworks</strong><br>
@@ -90,6 +90,12 @@ I develop LLM apps, AI agents & production ML pipelines by turning data into inf
 
 </details>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/toluwasebabalola"><img alt="LinkedIn" height="36" width="36" src="assets/icons/linkedin.svg"></a>&emsp;&emsp;<a href="https://x.com/iamtolux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-dark.svg"><img alt="X" height="36" width="36" src="assets/icons/x.svg"></picture></a>&emsp;&emsp;<a href="https://www.youtube.com/@thbabs_yt"><img alt="YouTube" height="36" width="36" src="assets/icons/youtube.svg"></a>
+
+</div>
+
 ## Articles
 
 - [Substack](https://tryworkwithai.substack.com/)
@@ -101,11 +107,5 @@ I develop LLM apps, AI agents & production ML pipelines by turning data into inf
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thbabs&theme=dark&hide_border=true">
   <img alt="GitHub contribution streak for thbabs" src="https://streak-stats.demolab.com?user=thbabs&theme=default&hide_border=true">
 </picture>
-
-</div>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/toluwasebabalola"><img alt="LinkedIn" height="36" width="36" src="assets/icons/linkedin.svg"></a>&emsp;&emsp;<a href="https://tryworkwithai.substack.com/"><img alt="Substack" height="36" width="36" src="assets/icons/substack.svg"></a>&emsp;&emsp;<a href="https://x.com/iamtolux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-dark.svg"><img alt="X" height="36" width="36" src="assets/icons/x.svg"></picture></a>&emsp;&emsp;<a href="https://github.com/thbabs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img alt="GitHub" height="36" width="36" src="assets/icons/github.svg"></picture></a>&emsp;&emsp;<a href="https://www.youtube.com/@thbabs_yt"><img alt="YouTube" height="36" width="36" src="assets/icons/youtube.svg"></a>
 
 </div>
