@@ -52,6 +52,7 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 ## Open source contributions
 
 - [pandas-dev/pandas-stubs #2012](https://github.com/pandas-dev/pandas-stubs/pull/2012): pass --preset strict to the installed-stubs pyrefly check (merged)
+- [docling-project/docling-pipelines #355](https://github.com/docling-project/docling-pipelines/pull/355): bring vault_initializer.py to 100% coverage and fix its log dashes (merged)
 
 ## Stack
 
