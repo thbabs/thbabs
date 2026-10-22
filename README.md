@@ -1,10 +1,6 @@
-<div align="center">
-
-# Hi, Tolu here 👋
+## Hi, Tolu here
 
 I develop LLM apps, AI agents & production ML pipelines by turning data into informed decisions and creating sustainable Human-AI systems
-
-</div>
 
 ## Featured projects
 
@@ -90,11 +86,9 @@ I develop LLM apps, AI agents & production ML pipelines by turning data into inf
 
 </details>
 
-<div align="center">
+## Connect
 
 <a href="https://www.linkedin.com/in/toluwasebabalola"><img alt="LinkedIn" height="36" width="36" src="assets/icons/linkedin.svg"></a>&emsp;&emsp;<a href="https://x.com/iamtolux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-dark.svg"><img alt="X" height="36" width="36" src="assets/icons/x.svg"></picture></a>&emsp;&emsp;<a href="https://www.youtube.com/@thbabs_yt"><img alt="YouTube" height="36" width="36" src="assets/icons/youtube.svg"></a>
-
-</div>
 
 ## Articles
 
