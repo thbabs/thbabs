@@ -45,6 +45,7 @@ I turn data into informed decisions and creating scalable systems with AI to sav
 
 | Project | Description |
 | --- | --- |
+| [llm-cassette](https://github.com/thbabs/llm-cassette) | Record and replay OpenAI and Anthropic calls plus tool calls in pytest, with a diff command.<br>`pip install llm-cassette` |
 | ServiceOS | AI-powered operating system for service businesses. |
 | [BillSplitPro](https://github.com/thbabs/BillSplitPro) | A minimal bill-splitting app for splitting by item, percentage, or evenly, with optional service charge, VAT, and tip. |
 | [Climate Change RAG Assistant](https://github.com/thbabs/Climate-Change-RAG) | A retrieval-augmented generation assistant that answers climate change questions from research papers, using vector embeddings with ChromaDB, Google Gemini, and a Streamlit app. |
