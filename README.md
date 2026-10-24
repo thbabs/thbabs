@@ -15,6 +15,8 @@ I develop LLM apps, AI agents & production ML pipelines by turning data into inf
 
 - [pandas-dev/pandas-stubs #2012](https://github.com/pandas-dev/pandas-stubs/pull/2012): pass --preset strict to the installed-stubs pyrefly check (merged)
 - [docling-project/docling-pipelines #355](https://github.com/docling-project/docling-pipelines/pull/355): bring vault_initializer.py to 100% coverage and fix its log dashes (merged)
+- [docling-project/docling-pipelines #430](https://github.com/docling-project/docling-pipelines/pull/430): support file events in the S3 and IBM COS ingest provider and load a single object key (open)
+- [mozilla-ai/otari #2525](https://github.com/mozilla-ai/otari/pull/2525): add an Azure OpenAI provider guide for the resource endpoint, deployment names, and the v1 route the provider calls (open)
 
 <details>
 <summary><h2>Stack</h2></summary>
